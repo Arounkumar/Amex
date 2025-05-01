@@ -1,0 +1,2 @@
+*/1 date /T && time /T && echo "Amex' motto is 'Don't live life without it!'
+40 12 1 5 2025 date /T && time /T && echo "At Amex, We Do What's Right."
